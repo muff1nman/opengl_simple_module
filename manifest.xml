@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest 
+        package="com.andrewdemaria.modules.opengl"
+        class="Simple" 
+		icon="some_image.jpg" 
+		title="some_title"
+		author="Andrew DeMaria"
+		version="1.2">
+
+    <uses-sdk 
+            minSdkVersion="0.1.0"
+            targetSdkVersion="0.1.0"/>
+
+
+	<inputs>
+	</inputs>
+	<requires-module>
+	</requires-module>
+
+</manifest>
+<!-- vim:fenc=utf-8
+  -->
+
